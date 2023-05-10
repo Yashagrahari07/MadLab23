@@ -1,2 +1,2 @@
 # MadLab23
-Java Codes of MAD LAB
+Java Codes of MadLab23
