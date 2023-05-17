@@ -1,4 +1,0 @@
-interface Testable
-{
-    void show();
-}

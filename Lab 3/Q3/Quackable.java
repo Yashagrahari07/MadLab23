@@ -1,4 +1,0 @@
-interface Quackable
-{
-    void quack();
-}
