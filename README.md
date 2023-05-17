@@ -1,2 +1,2 @@
-# MadLab23
-Java Codes of MadLab23
+# MADLab23
+This is Official Repo for MadLab23 Lab Records.
